@@ -1,1 +1,1 @@
-# Solution to tasks on Web stack debugging #1
+# Solution For tasks on Web stack debugging #1
